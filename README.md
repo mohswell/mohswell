@@ -23,7 +23,7 @@ Here are some of the projects I've been working on:
    - I played a full  key role in developing the frontend UI/UX, ensuring a seamless and intuitive shopping experience for users complete with MPesa gateway API.
   
 2. **MorePlus Financial**: MorePlus Financial is a banking web application developed to provide online banking services and manage financial transactions seamlessly.
-   - [Repository](https://github.com/Moddic10/MorePlus-Financial---A-Banking-Web-System)
+   - (https://github.com/Moddic10/MorePlus-Financial---A-Banking-Web-System)
    - I led the development of the backend architecture, implementing robust security measures, testing frameworks, and ensuring efficient transaction processing.
 
 3. **Heart Attack Prediction Model**: A machine learning model built to predict the likelihood of a person experiencing a heart attack based on various health parameters.
