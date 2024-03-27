@@ -21,9 +21,12 @@ Here are some of the projects I've been working on:
 1. **ESoko**: ESoko is a web application developed for the QuickMart supermarket, aiming to streamline inventory management and improve customer experience.
    - (https://github.com/Moddic10/ESoko---A-QuickMart-Ecommerce-Website)
    - I played a full  key role in developing the frontend UI/UX, ensuring a seamless and intuitive shopping experience for users complete with MPesa gateway API.
+  
+2. **MorePlus Financial**: MorePlus Financial is a banking web application developed to provide online banking services and manage financial transactions seamlessly.
+   - [Repository](https://github.com/Moddic10/MorePlus-Financial---A-Banking-Web-System)
+   - I led the development of the backend architecture, implementing robust security measures, testing frameworks, and ensuring efficient transaction processing.
 
-2. **Heart Attack Prediction Model**:
-A machine learning model built to predict the likelihood of a person experiencing a heart attack based on various health parameters..
+3. **Heart Attack Prediction Model**: A machine learning model built to predict the likelihood of a person experiencing a heart attack based on various health parameters.
    - (https://github.com/Moddic10/Heart-attack-prediction-model)
    - I led the development and implementation of the predictive algorithms, achieving high accuracy and reliability in the model's predictions.
 
