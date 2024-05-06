@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Muhammad, a passionate Full Stack Software Engineer, dedicated to crafting innovative solutions and contributing to the world of  computer science. Here, you'll find a showcase of my projects, contributions, and a glimpse into my journey as a developer/creative professional.
+Welcome to my GitHub profile! I'm Muhammad, a passionate Full Stack Software Engineer and a QA tester, dedicated to crafting innovative solutions and contributing to the world of computer science. Here, you'll find a showcase of my projects, contributions, and a glimpse into my journey as a developer/creative professional.
 
 ## About Me ℹ️
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Muhammad, a passionate Full Stack Software Eng
 
 ## Skills 🛠️
 
-- **Programming Languages**: Python, PHP, JAVASCRIPT, React.js, Bootstrap CSS, AGILE, HTML, Tailwind CSS, Server side JS
+- **Programming Languages**: Python, PHP, JAVASCRIPT, React.js, Bootstrap CSS, AGILE, HTML, Tailwind CSS, Server side JS, MongoDB
 - **Technologies & Tools**: Visual Studio, React Native, XAMPP, AJAX Requests, UI design
 - **Soft Skills**: Communication, teamwork, problem-solving, Debugging techniques, Client Relations
 
@@ -40,7 +40,7 @@ Here are some of the projects I've been working on:
 Feel free to reach out to me through the following channels:
 
 - 📧 Email: mohammedabdy10@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-said-124219231/
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammadsaid10/
 - ☎️ Phone: +254787934996
 
 ## Looking for Opportunities 🚀
