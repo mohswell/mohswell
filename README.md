@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Muhammad, a passionate Full Stack Software Engineer and a QA tester, dedicated to crafting innovative solutions and contributing to the world of computer science. Here, you'll find a showcase of my projects, contributions, and a glimpse into my journey as a developer/creative professional.
+Welcome to my GitHub profile! I'm Muhammad, a passionate Software developer and Quality Assurance engineer, dedicated to crafting innovative solutions and contributing to the world of technology. Here, you'll find a showcase of my projects, contributions, and a glimpse into my journey as a creative professional.
 
 ## About Me ℹ️
 
@@ -16,19 +16,24 @@ Welcome to my GitHub profile! I'm Muhammad, a passionate Full Stack Software Eng
 
 ## Projects 🚀
 
-Here are some of the projects I've been working on:
+Here are some of the best projects I've been working on:
 
-1. **ESoko**: ESoko is a web application developed for the QuickMart supermarket, aiming to streamline inventory management and improve customer experience.
-   - (https://github.com/Moddic10/ESoko---A-QuickMart-Ecommerce-Website)
-   - I played a full  key role in developing the frontend UI/UX, ensuring a seamless and intuitive shopping experience for users complete with MPesa gateway API.
-  
-2. **MorePlus Financial**: MorePlus Financial is a banking web application developed to provide online banking services and manage financial transactions seamlessly.
+1. **MorePlus Financial**: MorePlus Financial is a banking web application developed to provide online banking services and manage financial transactions seamlessly.
    - (https://github.com/Moddic10/MorePlus-Financial---A-Banking-Web-System)
    - I led the development of the backend architecture, implementing robust security measures, testing frameworks, and ensuring efficient transaction processing.
 
+2. **ESoko**: ESoko is a web application developed for the QuickMart supermarket, aiming to streamline inventory management and improve customer experience.
+   - (https://github.com/Moddic10/ESoko---A-QuickMart-Ecommerce-Website)
+   - I played a full key role in developing the frontend UI/UX, ensuring a seamless and intuitive shopping experience for users complete with MPesa gateway API.
+
+3. **Testing & Quality Assurance**: I have also developed and tested several projects using Selenium web-drivers, Mocha & Chai Assertions, and the Pytest framework:
+   - (https://github.com/Moddic10/Quality_Assurance_Projects)
+   - Weather App Development and Testing: Unit tests implemented using Mocha.js and Vue Test Utils to ensure the correctness of components and functionalities.
+   - News App Development and Testing: Unit tests implemented using a Python script to test Vue components using tools such as pytest and Selenium.
+
 3. **Heart Attack Prediction Model**: A machine learning model built to predict the likelihood of a person experiencing a heart attack based on various health parameters.
    - (https://github.com/Moddic10/Heart-attack-prediction-model)
-   - I led the development and implementation of the predictive algorithms, achieving high accuracy and reliability in the model's predictions.
+   - I led the development and implementation of the predictive algorithms, achieving 95% accuracy and reliability in the model's predictions.
 
 ## Contributions & Achievements 🏆
 
@@ -45,4 +50,4 @@ Feel free to reach out to me through the following channels:
 
 ## Looking for Opportunities 🚀
 
-I'm currently seeking new opportunities where I can apply my skills and passion for Computer Science. If you think I could be a good fit for your team or have any exciting projects, don't hesitate to get in touch!
+I'm currently seeking new opportunities where I can apply my skills and passion for technology. If you think I could be a good fit for your team or have any exciting projects, don't hesitate to get in touch!
