@@ -10,30 +10,34 @@ Welcome to my GitHub profile! I'm Muhammad, a passionate Software developer and 
 
 ## Skills 🛠️
 
-- **Programming Languages**: Python, PHP, JAVASCRIPT, React.js, Bootstrap CSS, AGILE, HTML, Tailwind CSS, Server side JS, MongoDB
-- **Technologies & Tools**: Visual Studio, React Native, XAMPP, AJAX Requests, UI design
-- **Soft Skills**: Communication, teamwork, problem-solving, Debugging techniques, Client Relations
+- **Programming Languages**: Java, Python, Node.Js, Selenium Tests, React.js, Bootstrap CSS, AGILE, HTML, REST API, MongoDB
+- **Technologies & Tools**: Spring MVC, Visual Studio, React Native, XAMPP, AJAX, JQuery, UI & UX
+- **Soft Skills**: Communication, teamwork, problem-solving, Debugging techniques, Client Relations, Software Testing
 
 ## Projects 🚀
 
 Here are some of the best projects I've been working on:
 
-1. **MorePlus Financial**: MorePlus Financial is a banking web application developed to provide online banking services and manage financial transactions seamlessly.
+1. **EuroSporthub**: EuroSporthub is a Euro 2024 football streaming application that provides live scores, match details, team information, and Player information.
+   - (https://github.com/Moddic10/EuroSporthub---A-Football-Streaming-app)
+   - I built the backend using Java and Spring Boot, integrated MongoDB for data storage, and implemented RESTful APIs for efficient data retrieval and manipulation.
+
+2. **MorePlus Financial**: MorePlus Financial is a banking web application developed to provide online banking services and manage financial transactions seamlessly.
    - (https://github.com/Moddic10/MorePlus-Financial---A-Banking-Web-System)
    - I led the development of the backend architecture, implementing robust security measures, testing frameworks, and ensuring efficient transaction processing.
 
-2. **ESoko**: ESoko is a web application developed for the QuickMart supermarket, aiming to streamline inventory management and improve customer experience.
+3. **ESoko**: ESoko is a web application developed for the QuickMart supermarket, aiming to streamline inventory management and improve customer experience.
    - (https://github.com/Moddic10/ESoko---A-QuickMart-Ecommerce-Website)
    - I played a full key role in developing the frontend UI/UX, ensuring a seamless and intuitive shopping experience for users complete with MPesa gateway API.
 
-3. **Testing & Quality Assurance**: I have also developed and tested several projects using Selenium web-drivers, Mocha & Chai Assertions, and the Pytest framework:
+3. **Testing & Quality Assurance**: I have also developed and tested several projects using Selenium web drivers, Mocha & Chai Assertions, and the Pytest framework:
    - (https://github.com/Moddic10/Quality_Assurance_Projects)
    - Weather App Development and Testing: Unit tests implemented using Mocha.js and Vue Test Utils to ensure the correctness of components and functionalities.
    - News App Development and Testing: Unit tests implemented using a Python script to test Vue components using tools such as pytest and Selenium.
 
-3. **Heart Attack Prediction Model**: A machine learning model built to predict the likelihood of a person experiencing a heart attack based on various health parameters.
+4. **Heart Attack Prediction Model**: A machine learning model built to predict the likelihood of a person experiencing a heart attack based on various health parameters.
    - (https://github.com/Moddic10/Heart-attack-prediction-model)
-   - I led the development and implementation of the predictive algorithms, achieving 95% accuracy and reliability in the model's predictions.
+   - I led the development using Python and implementation of the predictive algorithms, achieving 95% accuracy and reliability in the model's predictions.
 
 ## Contributions & Achievements 🏆
 
