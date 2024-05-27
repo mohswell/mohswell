@@ -35,7 +35,12 @@ Here are some of the best projects I've been working on:
    - Weather App Development and Testing: Unit tests implemented using Mocha.js and Vue Test Utils to ensure the correctness of components and functionalities.
    - News App Development and Testing: Unit tests implemented using a Python script to test Vue components using tools such as pytest and Selenium.
 
-4. **Heart Attack Prediction Model**: A machine learning model built to predict the likelihood of a person experiencing a heart attack based on various health parameters.
+4. **Data Pipeline Project: Stock Price Prediction with News Sentiment Analysis**: This project combines data from stock APIs and news APIs to predict stock prices using sentiment analysis.
+   - [GitHub Repository](https://github.com/Moddic10/StockNews--SentimentAnalyis)
+   - ETL Pipelines: Extract, Transform, and Load pipelines for retrieving stock data and news data, performing sentiment analysis, and storing the data in a MySQL database.
+   - Trained machine learning models to predict future stock prices based on historical stock data and news sentiment features and Evaluating model performance using metrics      like Mean Squared Error (MSE) and R-squared, and visualizing predicted prices against actual closing prices.
+     
+5. **Heart Attack Prediction Model**: A machine learning model built to predict the likelihood of a person experiencing a heart attack based on various health parameters.
    - (https://github.com/Moddic10/Heart-attack-prediction-model)
    - I led the development using Python and implementation of the predictive algorithms, achieving 95% accuracy and reliability in the model's predictions.
 
