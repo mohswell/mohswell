@@ -4,6 +4,9 @@
     <a href="https://www.linkedin.com/in/muhammadsaid10">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="mailto:mohammedabdy10@gmail.com">
+      <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    </a>
 <!--     <a href="your-youtube-URL">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a> -->
@@ -27,7 +30,7 @@
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 - :telescope: I’m working as a QA Engineer and contributing to frontend and backend for building web applications.
 
-- :insect: Deciphering complex world issues using Technology. (I solve bugs)
+- :seedling: Deciphering complex world issues using Technology. (I solve bugs)
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
@@ -69,5 +72,3 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-
