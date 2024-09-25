@@ -7,6 +7,16 @@
     <a href="mailto:mohammedabdy10@gmail.com">
       <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
+    <a href="https://linktr.ee/mohswell">
+      <img src="https://img.shields.io/badge/linktree-43E55E?style=flat&logo=linktree&logoColor=white"/>
+    </a>
+    <a href="https://roadmap.sh/u/mohswell">
+      <img src="https://img.shields.io/badge/Roadmap-000000?style=flat&logo=roadmap.sh&logoColor=white"/>
+    </a>
+    <a href="https://www.xda-developers.com/mohslaw/">
+      <img src="https://img.shields.io/badge/xda%20developers-EA7100?style=flat&logo=xda-developers&logoColor=white"/>
+    </a>
+    
 <!--     <a href="your-youtube-URL">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a> -->
