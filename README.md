@@ -71,8 +71,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohswell&layout=compact&theme=vision-friendly-dark&hide=vim%20script)](https://github.com/mohswell/github-readme-stats)
 ![Profile Views](https://komarev.com/ghpvc/?username=mohswell&style=flat-square&color=blue)
-[![Mohswell's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohswell)](https://github.com/mohswell/github-readme-stats)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohswell&show_icons=true&count_private=true&theme=vision-friendly-dark)](https://github.com/mohswell/github-readme-stats)
 ---
 
 ### :writing_hand: Blog Posts :
