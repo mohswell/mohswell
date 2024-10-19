@@ -73,7 +73,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohswell&layout=compact&theme=vision-friendly-dark&hide=vim%20script)](https://github.com/mohswell/github-readme-stats)
 ![Profile Views](https://komarev.com/ghpvc/?username=mohswell&style=flat-square&color=blue)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohswell&show_icons=true&count_private=true&theme=vision-friendly-dark)](https://github.com/mohswell/github-readme-stats)
-[![Mohswell's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mohswell&bg_color=000000&color=ffffff&line=00E676&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mohswell's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohswell&theme=react-dark&bg_color=000000&color=79fe96&line=79fe96&point=ffffff)](https://github.com/mohswell)
 [![trophy](https://github-profile-trophy.vercel.app/?username=mohswell&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
