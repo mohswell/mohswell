@@ -69,8 +69,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mohswell&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohswell&layout=compact&hide=php,html,css&theme=vision-friendly-dark)](https://github.com/mohswell/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohswell&layout=compact&theme=vision-friendly-dark&hide=vim%20script)](https://github.com/mohswell/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohswell&layout=compact&hide=php,html,css&theme=vision-friendly-dark&include_langs=typescript,terraform,javascript,python,java,sql)](https://github.com/mohswell/github-readme-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohswell&show_icons=true&count_private=true&theme=vision-friendly-dark)](https://github.com/mohswell/github-readme-stats)
 [![Mohswell's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohswell&theme=react-dark&bg_color=000000&color=79fe96&line=79fe96&point=ffffff)](https://github.com/mohswell)
 [![trophy](https://github-profile-trophy.vercel.app/?username=mohswell&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
