@@ -66,6 +66,81 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-924.1%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 704 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 22 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                67 commits          ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+🌆 Daytime                85 commits          █████████░░░░░░░░░░░░░░░░   34.27 % 
+🌃 Evening                95 commits          ██████████░░░░░░░░░░░░░░░   38.31 % 
+🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   59 commits          ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+Tuesday                  52 commits          █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+Wednesday                29 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Thursday                 61 commits          ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+Friday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Saturday                 19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Sunday                   19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Nairobi
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+TypeScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/mohswell/mohswell/main/assets/bar_graph.png)
+
+
+ Last Updated on 20/10/2024 18:39:38 UTC
 <!--END_SECTION:waka-->
 
 ### :fire: My Stats :
