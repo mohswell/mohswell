@@ -66,17 +66,15 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-982.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-982.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 1,196 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,21 +85,21 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                70 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-🌆 Daytime                213 commits         █████████████░░░░░░░░░░░░   53.92 % 
-🌃 Evening                111 commits         ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+🌞 Morning                70 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+🌆 Daytime                222 commits         ██████████████░░░░░░░░░░░   54.95 % 
+🌃 Evening                111 commits         ███████░░░░░░░░░░░░░░░░░░   27.48 % 
 🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   72 commits          █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Tuesday                  55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Wednesday                74 commits          █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Thursday                 63 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Friday                   93 commits          ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-Saturday                 19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Monday                   72 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Tuesday                  55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+Wednesday                74 commits          █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Thursday                 63 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Friday                   93 commits          ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
+Saturday                 28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Sunday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 ```
 
 
@@ -147,7 +145,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohswell/mohswell/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2024 18:41:10 UTC
+ Last Updated on 09/11/2024 18:38:41 UTC
 <!--END_SECTION:waka-->
 
 ### :fire: My Stats :
