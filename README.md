@@ -66,7 +66,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-186%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,6 +75,8 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,20 +111,21 @@ Sunday                   355 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-YAML                     1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   37.20 % 
-Other                    51 mins             ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-TypeScript               50 mins             ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-Markdown                 34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+YAML                     1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+JavaScript               1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+Other                    51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+TypeScript               50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 58 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mintify                  3 hrs 37 mins       █████████████████████████   100.00 % 
+mintify                  3 hrs 37 mins       ███████████████░░░░░░░░░░   60.77 % 
+portfolio                2 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   39.23 % 
 
 💻 Operating System: 
-Windows                  3 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -142,7 +145,7 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohswell/mohswell/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2024 18:41:42 UTC
+ Last Updated on 01/01/2025 18:42:25 UTC
 <!--END_SECTION:waka-->
 
 ### :fire: My Stats :
