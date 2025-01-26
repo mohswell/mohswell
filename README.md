@@ -66,7 +66,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-213%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -132,11 +132,11 @@ Windows                  3 hrs 53 mins       ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-TypeScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+JavaScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+TypeScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 ```
 
 
@@ -146,7 +146,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohswell/mohswell/main/assets/bar_graph.png)
 
 
- Last Updated on 25/01/2025 18:39:50 UTC
+ Last Updated on 26/01/2025 18:41:10 UTC
 <!--END_SECTION:waka-->
 
 ### :fire: My Stats :
