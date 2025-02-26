@@ -111,16 +111,22 @@ Sunday                   664 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               38 mins             ████████████░░░░░░░░░░░░░   48.65 % 
+TypeScript               35 mins             ███████████░░░░░░░░░░░░░░   43.98 % 
+YAML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 19 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+stucruum-website         38 mins             ████████████░░░░░░░░░░░░░   48.89 % 
+stucruum-backend-v2-core 32 mins             ██████████░░░░░░░░░░░░░░░   40.73 % 
+stucruum-image-uploader  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+photoruum-website        2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -140,7 +146,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohswell/mohswell/main/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2025 18:45:33 UTC
+ Last Updated on 26/02/2025 18:45:09 UTC
 <!--END_SECTION:waka-->
 
 ### :fire: My Stats :
