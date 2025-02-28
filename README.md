@@ -66,7 +66,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-222%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,6 +75,8 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,22 +111,23 @@ Sunday                   664 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-TypeScript               45 mins             █████████████░░░░░░░░░░░░   50.49 % 
-JavaScript               38 mins             ███████████░░░░░░░░░░░░░░   42.99 % 
-YAML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+TypeScript               2 hrs 44 mins       ███████████████████░░░░░░   76.55 % 
+JavaScript               38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+YAML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-VS Code                  1 hr 30 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-stucruum-website         38 mins             ███████████░░░░░░░░░░░░░░   43.20 % 
-stucruum-backend-v2-core 32 mins             █████████░░░░░░░░░░░░░░░░   35.99 % 
-photoruum-website        13 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-stucruum-image-uploader  5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+stucruum-backend-v2-core 2 hrs 26 mins       █████████████████░░░░░░░░   67.91 % 
+stucruum-website         38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+photoruum-website        24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+stucruum-image-uploader  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 💻 Operating System: 
-Windows                  1 hr 30 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -144,7 +147,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohswell/mohswell/main/assets/bar_graph.png)
 
 
- Last Updated on 27/02/2025 18:46:31 UTC
+ Last Updated on 28/02/2025 18:46:01 UTC
 <!--END_SECTION:waka-->
 
 ### :fire: My Stats :
