@@ -66,7 +66,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-443%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,6 +75,8 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 986 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -120,8 +122,8 @@ VS Code                  9 hrs 20 mins       ███████████�
 
 🐱‍💻 Projects: 
 spotlight-photoruum-v2   3 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   41.70 % 
-spotlight-photoruum      2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
-solutech-sat-360         1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+spotlight-photoruum      2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+solutech-sat-360         1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
 k6-postman-tests         55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
 allwellsofficial         52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
 
@@ -147,7 +149,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohswell/mohswell/main/assets/bar_graph.png)
 
 
- Last Updated on 04/05/2025 18:45:47 UTC
+ Last Updated on 05/05/2025 18:46:22 UTC
 <!--END_SECTION:waka-->
 
 ### :fire: My Stats :
