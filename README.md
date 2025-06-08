@@ -76,8 +76,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,172 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 29 Public Repositories 
@@ -111,19 +109,16 @@ Sunday                   797 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-TypeScript               2 mins              ████████████████░░░░░░░░░   65.26 % 
-YAML                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
-Docker                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-photoruum                2 mins              ███████████████████░░░░░░   74.26 % 
-solutech-sat-360         0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -143,7 +138,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohswell/mohswell/main/assets/bar_graph.png)
 
 
- Last Updated on 07/06/2025 18:46:55 UTC
+ Last Updated on 08/06/2025 18:48:17 UTC
 <!--END_SECTION:waka-->
 
 ### :fire: My Stats :
