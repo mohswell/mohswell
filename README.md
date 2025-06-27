@@ -76,8 +76,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,199 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 29 Public Repositories 
@@ -111,19 +109,16 @@ Sunday                   906 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-TypeScript               7 mins              █████████████████░░░░░░░░   67.20 % 
-Dart                     2 mins              ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
-YAML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+TypeScript               7 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  11 mins             █████████████████████████   100.00 % 
+VS Code                  7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-stucruum-backend-v2-core 7 mins              █████████████████░░░░░░░░   67.20 % 
-solutech-sat-360         3 mins              ████████░░░░░░░░░░░░░░░░░   32.80 % 
+stucruum-backend-v2-core 7 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 mins             █████████████████████████   100.00 % 
+Linux                    7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -143,7 +138,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohswell/mohswell/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2025 18:51:09 UTC
+ Last Updated on 27/06/2025 18:50:42 UTC
 <!--END_SECTION:waka-->
 
 ### :fire: My Stats :
