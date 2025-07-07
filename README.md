@@ -109,16 +109,19 @@ Sunday                   906 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 mins              █████████░░░░░░░░░░░░░░░░   36.41 % 
+Markdown                 3 mins              █████████░░░░░░░░░░░░░░░░   35.69 % 
+JavaScript               2 mins              █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+gemini-desktop           11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -138,7 +141,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohswell/mohswell/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2025 18:48:34 UTC
+ Last Updated on 07/07/2025 18:52:59 UTC
 <!--END_SECTION:waka-->
 
 ### :fire: My Stats :
