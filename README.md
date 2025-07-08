@@ -66,7 +66,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -75,6 +75,8 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 1,201 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -141,7 +143,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohswell/mohswell/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2025 18:52:59 UTC
+ Last Updated on 08/07/2025 18:53:18 UTC
 <!--END_SECTION:waka-->
 
 ### :fire: My Stats :
