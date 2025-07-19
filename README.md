@@ -68,7 +68,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-496%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.6%20million%20lines%20of%20code-blue)
 
@@ -109,16 +109,18 @@ Sunday                   917 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     4 mins              ██████████████████████░░░   88.93 % 
+TypeScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+solutech-sat-360         4 mins              ██████████████████████░░░   88.93 % 
+stucruum-backend-v2-core 0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -138,7 +140,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohswell/mohswell/main/assets/bar_graph.png)
 
 
- Last Updated on 18/07/2025 18:53:15 UTC
+ Last Updated on 19/07/2025 18:50:12 UTC
 <!--END_SECTION:waka-->
 
 ### :fire: My Stats :
