@@ -76,8 +76,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,271 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 29 Public Repositories 
@@ -140,7 +138,7 @@ Go                       1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohswell/mohswell/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2025 18:57:21 UTC
+ Last Updated on 05/08/2025 18:58:38 UTC
 <!--END_SECTION:waka-->
 
 ### :fire: My Stats :
