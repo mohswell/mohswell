@@ -33,8 +33,8 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
-- :telescope: I’m working as a QA Engineer and contributing to frontend and backend for building web applications.
+I am a SDET Engineet <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+- :telescope: I’m working as a QA Engineer and contributing to quality in both mobile and web applications.
 
 - :seedling: Deciphering complex world issues using Technology. (I solve bugs)
 
