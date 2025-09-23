@@ -66,8 +66,6 @@ I am a SDET Engineet <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-501%20hrs%2027%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.5%20million%20lines%20of%20code-blue)
@@ -76,7 +74,7 @@ I am a SDET Engineet <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 1,412 Contributions in the Year 2025
+> 🏆 1,414 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -84,53 +82,6 @@ I am a SDET Engineet <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2277 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-🌆 Daytime                9565 commits        █████████████████░░░░░░░░   66.19 % 
-🌃 Evening                2607 commits        █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   3735 commits        ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
-Tuesday                  2151 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Wednesday                2303 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Thursday                 1850 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Friday                   2267 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Saturday                 819 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Sunday                   1325 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Nairobi
-
-💬 Programming Languages: 
-JavaScript               1 hr 40 mins        █████████████░░░░░░░░░░░░   53.15 % 
-YAML                     39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-TypeScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-Vue.js                   11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Bash                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 8 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-node-js-playwright-browse2 hrs 22 mins       ███████████████████░░░░░░   75.70 % 
-solutech-admin-frontend-v19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-playwright-page-object   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-salesautomation-v2       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-solutech-sat-360         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-
-💻 Operating System: 
-Windows                  3 hrs 8 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -148,7 +99,7 @@ Gherkin                  1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohswell/mohswell/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2025 18:49:26 UTC
+ Last Updated on 23/09/2025 18:51:46 UTC
 <!--END_SECTION:waka-->
 
 ### :fire: My Stats :
