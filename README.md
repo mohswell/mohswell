@@ -33,12 +33,15 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a SDET Engineet <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+I am a senior QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 - :telescope: I’m working as a QA Engineer and contributing to quality in both mobile and web applications.
 
-- :seedling: Deciphering complex world issues using Technology. (I solve bugs)
+- :seedling: **Open Source Contributor** — I contribute to multiple projects such as [Nuxt.js](https://nuxt.com) and [is-a.dev](https://is-a.dev)  
+  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-- :zap: In my free time, I solve problems on Leetcode and read tech articles.
+- :zap: Fixing the world one bug at a time. (Sometimes I even fix my own)
+
+- :books: In my free time, I solve challenges on LeetCode and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadsaid10)
 
