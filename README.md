@@ -33,8 +33,8 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a senior QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
-- :telescope: I’m working as a QA Engineer and contributing to quality in both mobile and web applications.
+I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :telescope: I contribute to quality in both mobile and web applications.
 
 - :seedling: **Open Source Contributor** — I contribute to multiple projects such as [Nuxt.js](https://nuxt.com) and [is-a.dev](https://is-a.dev)  
   [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
