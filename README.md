@@ -36,8 +36,12 @@
 I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I contribute to quality in both mobile and web applications.
 
-- :seedling: **Open Source Contributor** — I contribute to multiple projects such as [Nuxt.js](https://nuxt.com) and [is-a.dev](https://is-a.dev)  
+- :seedling: **Open Source Contributor** — I contribute to multiple projects such as  
+  [Nuxt.js](https://nuxt.com), [is-a.dev](https://is-a.dev), [Grafana](https://grafana.com), and [k6](https://k6.io)
+
   [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+  [![Grafana](https://img.shields.io/badge/Grafana-Contributor-F46800?logo=grafana&logoColor=white)](https://grafana.com)
+  [![k6](https://img.shields.io/badge/k6-Contributor-7D64FF?logo=k6&logoColor=white)](https://k6.io)
 
 - :zap: Fixing the world one bug at a time. (Sometimes I even fix my own)
 
