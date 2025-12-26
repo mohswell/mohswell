@@ -73,7 +73,7 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-586%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-589%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -83,7 +83,7 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 2,027 Contributions in the Year 2025
+> 🏆 2,029 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -118,21 +118,20 @@ Sunday                   1786 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-TypeScript               4 hrs 47 mins       █████████████████░░░░░░░░   68.96 % 
-YAML                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+TypeScript               4 hrs 36 mins       ███████████████████████░░   90.98 % 
+JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+TSConfig                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 57 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 4 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-k6-studio                5 hrs 6 mins        ██████████████████░░░░░░░   73.61 % 
-k6-graphql               1 hr 50 mins        ███████░░░░░░░░░░░░░░░░░░   26.39 % 
+k6-studio                5 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -152,7 +151,7 @@ Gherkin                  1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohswell/mohswell/main/assets/bar_graph.png)
 
 
- Last Updated on 25/12/2025 18:56:35 UTC
+ Last Updated on 26/12/2025 18:56:44 UTC
 <!--END_SECTION:waka-->
 
 ### :fire: My Stats :
