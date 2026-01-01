@@ -77,13 +77,13 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.67%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 2,034 Contributions in the Year 2025
+> 🏆 6 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -94,21 +94,21 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3193 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-🌆 Daytime                13720 commits       █████████████████░░░░░░░░   66.84 % 
-🌃 Evening                3612 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+🌞 Morning                3195 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+🌆 Daytime                13720 commits       █████████████████░░░░░░░░   66.83 % 
+🌃 Evening                3613 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
 🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   5435 commits        ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+Monday                   5435 commits        ███████░░░░░░░░░░░░░░░░░░   26.47 % 
 Tuesday                  3041 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Wednesday                3400 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Wednesday                3402 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
 Thursday                 2576 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
 Friday                   3132 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
 Saturday                 1156 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Sunday                   1787 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Sunday                   1788 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
 ```
 
 
@@ -118,20 +118,16 @@ Sunday                   1787 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-TypeScript               2 hrs 57 mins       ████████████████████████░   94.97 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-k6-studio                3 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 6 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -151,7 +147,7 @@ Gherkin                  1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohswell/mohswell/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 18:57:01 UTC
+ Last Updated on 01/01/2026 18:57:48 UTC
 <!--END_SECTION:waka-->
 
 ### :fire: My Stats :
