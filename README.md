@@ -81,7 +81,7 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 8 Contributions in the Year 2026
+> 🏆 9 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -89,45 +89,6 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3195 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-🌆 Daytime                13720 commits       █████████████████░░░░░░░░   66.81 % 
-🌃 Evening                3620 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   5435 commits        ███████░░░░░░░░░░░░░░░░░░   26.46 % 
-Tuesday                  3042 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Wednesday                3403 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-Thursday                 2580 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Friday                   3132 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Saturday                 1156 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Sunday                   1789 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Nairobi
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -145,7 +106,7 @@ Gherkin                  1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohswell/mohswell/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 18:59:26 UTC
+ Last Updated on 03/01/2026 18:57:10 UTC
 <!--END_SECTION:waka-->
 
 ### :fire: My Stats :
