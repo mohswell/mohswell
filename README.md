@@ -73,17 +73,17 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-590%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-591%20hrs%2031%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.67%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.67%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 10 Contributions in the Year 2026
+> 🏆 15 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -94,15 +94,15 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3195 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-🌆 Daytime                13720 commits       █████████████████░░░░░░░░   66.80 % 
+🌞 Morning                3196 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+🌆 Daytime                13723 commits       █████████████████░░░░░░░░   66.80 % 
 🌃 Evening                3621 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
 🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   5435 commits        ███████░░░░░░░░░░░░░░░░░░   26.46 % 
+Monday                   5439 commits        ███████░░░░░░░░░░░░░░░░░░   26.48 % 
 Tuesday                  3042 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
 Wednesday                3404 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
 Thursday                 2580 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
@@ -149,7 +149,7 @@ Gherkin                  1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohswell/mohswell/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 18:57:03 UTC
+ Last Updated on 05/01/2026 19:01:30 UTC
 <!--END_SECTION:waka-->
 
 ### :fire: My Stats :
