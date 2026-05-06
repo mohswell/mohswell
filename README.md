@@ -19,6 +19,9 @@
     <a href="https://x.com/mohs8laws">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
+    <a href="https://buymeacoffee.com/mohswell">
+      <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+    </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=mohswell&style=flat-square&color=blue" alt=""/>
   <h1>
