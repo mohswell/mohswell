@@ -76,8 +76,6 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2041%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.56%20million%20lines%20of%20code-blue?style=flat)
@@ -94,49 +92,6 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3946 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-🌆 Daytime                17316 commits       █████████████████░░░░░░░░   67.35 % 
-🌃 Evening                4447 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   6890 commits        ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-Tuesday                  3923 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Wednesday                4347 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Thursday                 3193 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Friday                   3760 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Saturday                 1426 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Sunday                   2172 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Nairobi
-
-💬 Programming Languages: 
-TypeScript               2 hrs 19 mins       ███████████████████░░░░░░   74.05 % 
-Other                    26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 8 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-playwright-project       3 hrs 8 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    3 hrs 8 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -154,7 +109,7 @@ Gherkin                  1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohswell/mohswell/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 20:23:28 UTC
+ Last Updated on 15/05/2026 20:11:06 UTC
 <!--END_SECTION:waka-->
 
 ### :fire: My Stats :
