@@ -76,6 +76,8 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2045%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.56%20million%20lines%20of%20code-blue?style=flat)
@@ -119,20 +121,20 @@ Sunday                   2172 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-TypeScript               2 hrs 19 mins       ███████████████████░░░░░░   74.05 % 
-Other                    26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+TypeScript               2 hrs 26 mins       ███████████████████░░░░░░   74.85 % 
+Other                    26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 15 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-playwright-project       3 hrs 8 mins        █████████████████████████   100.00 % 
+playwright-project       3 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 8 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -152,7 +154,7 @@ Gherkin                  1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohswell/mohswell/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2026 19:54:13 UTC
+ Last Updated on 18/05/2026 20:20:17 UTC
 <!--END_SECTION:waka-->
 
 ### :fire: My Stats :
