@@ -76,8 +76,6 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-641%20hrs%2045%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.57%20million%20lines%20of%20code-blue?style=flat)
@@ -94,45 +92,6 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3946 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-🌆 Daytime                17352 commits       █████████████████░░░░░░░░   67.36 % 
-🌃 Evening                4461 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   6904 commits        ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-Tuesday                  3945 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Wednesday                4361 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Thursday                 3193 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Friday                   3760 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Saturday                 1426 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Sunday                   2172 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Nairobi
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -150,7 +109,7 @@ Gherkin                  1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohswell/mohswell/main/assets/bar_graph.png)
 
 
- Last Updated on 27/05/2026 20:47:01 UTC
+ Last Updated on 28/05/2026 20:54:58 UTC
 <!--END_SECTION:waka-->
 
 ### :fire: My Stats :
